@@ -62,8 +62,6 @@ This project focuses on:
 
 - **SQL (MySQL 8.0.43)** – data cleaning, aggregation, window functions, subqueries
   
-- **Git & GitHub** – version control and portfolio presentation
-  
 - **Data Analytics Skills** – identifying key business questions, structuring queries for insight
 
 --- 
