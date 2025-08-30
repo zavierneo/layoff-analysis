@@ -1,0 +1,87 @@
+industry,company,company_totals,percentage_share
+Aerospace,OneWeb,451,68.230
+Aerospace,"Kitty Hawk",170,25.719
+Aerospace,Astra,40,6.051
+Construction,Katerra,3074,79.575
+Construction,RenoRun,280,7.248
+Construction,Procore,180,4.660
+Consumer,Google,12000,26.559
+Consumer,Meta,11000,24.346
+Consumer,Twitter,3940,8.720
+Crypto,Crypto.com,2260,21.135
+Crypto,Coinbase,2110,19.733
+Crypto,Kraken,1100,10.287
+Data,NetApp,960,18.695
+Data,UiPath,451,8.783
+Data,Informatica,450,8.763
+Education,Byju's,4000,29.990
+Education,"WhiteHat Jr",2100,15.744
+Education,Unacademy,1500,11.246
+Energy,Workrise,450,56.110
+Energy,RigUp,120,14.963
+Energy,Colossus,97,12.095
+Fin-Tech,Clearco,125,58.140
+Fin-Tech,Moss,70,32.558
+Fin-Tech,Thimble,20,9.302
+Finance,PayPal,2083,7.349
+Finance,PaisaBazaar,1500,5.292
+Finance,Stone,1300,4.587
+Fitness,Peloton,4084,46.685
+Fitness,MindBody,1100,12.574
+Fitness,Curefit,920,10.517
+Food,Swiggy,2880,12.601
+Food,Gopuff,2300,10.063
+Food,Instacart,1877,8.213
+Hardware,Dell,6650,48.091
+Hardware,IBM,3900,28.204
+Hardware,"Lam Research",1300,9.401
+Healthcare,Philips,10000,38.531
+Healthcare,Invitae,1000,3.853
+Healthcare,Noom,995,3.834
+HR,Workday,525,18.865
+HR,Pegasystems,245,8.803
+HR,PayFit,200,7.186
+Infrastructure,Cisco,4100,70.873
+Infrastructure,"New Relic",290,5.013
+Infrastructure,Nutanix,270,4.667
+Legal,Notarize,170,20.335
+Legal,OneTrust,150,17.943
+Legal,Relativity,150,17.943
+Logistics,Loggi,800,19.871
+Logistics,Flexport,640,15.897
+Logistics,KeepTruckin,349,8.669
+Manufacturing,Augury,20,100.000
+Marketing,"OLX Group",1500,14.623
+Marketing,GoDaddy,981,9.563
+Marketing,Hootsuite,520,5.069
+Media,Spotify,600,11.464
+Media,Netflix,505,9.648
+Media,SiriusXM,475,9.075
+Product,Airtable,254,20.600
+Product,GitLab,130,10.543
+Product,Bryter,100,8.110
+Product,Productboard,100,8.110
+"Real Estate",Better.com,3900,22.203
+"Real Estate",Zillow,2300,13.094
+"Real Estate",Redfin,1568,8.927
+Recruiting,LinkedIn,960,34.595
+Recruiting,ZipRecruiter,400,14.414
+Recruiting,Glassdoor,300,10.811
+Retail,Amazon,18150,41.616
+Retail,Groupon,3800,8.713
+Retail,Wayfair,2620,6.007
+Sales,Salesforce,10090,76.347
+Sales,DocuSign,1351,10.222
+Sales,ServiceTitan,221,1.672
+Security,OneTrust,950,15.889
+Security,Sophos,450,7.526
+Security,Latch,335,5.603
+Support,Amdocs,700,19.869
+Support,Zendesk,430,12.206
+Support,8x8,355,10.077
+Transportation,Uber,7585,22.475
+Transportation,Carvana,4000,11.853
+Transportation,Ola,2800,8.297
+Travel,Booking.com,4601,26.814
+Travel,Airbnb,1930,11.248
+Travel,OYO,1850,10.782

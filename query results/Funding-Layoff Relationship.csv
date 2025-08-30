@@ -1,0 +1,1456 @@
+company,industry,funds_raised_millions,max_percentage
+OneWeb,Aerospace,3000,0.85
+Astra,Aerospace,100,0.25
+Astra,Aerospace,300,0.16
+Yojak,Construction,3,0.50
+RenoRun,Construction,163,0.43
+Rhumbix,Construction,35,0.27
+Nearmap,Construction,15,0.20
+Bridgit,Construction,36,0.13
+RenoRun,Construction,163,0.12
+Nearmap,Construction,15,0.10
+Procore,Construction,649,0.09
+Katerra,Construction,1300,0.07
+Katerra,Construction,1200,0.03
+"Sandbox VR",Consumer,82,0.80
+"Panda Squad",Consumer,1,0.75
+Parler,Consumer,36,0.75
+"Magic Leap",Consumer,2600,0.50
+Twitter,Consumer,12900,0.50
+Eventbrite,Consumer,332,0.45
+Rover,Consumer,310,0.41
+Memmo,Consumer,24,0.40
+VSCO,Consumer,90,0.35
+Glossier,Consumer,266,0.33
+Gather,Consumer,76,0.33
+Juul,Consumer,1500,0.30
+Juul,Consumer,1500,0.30
+SweetEscape,Consumer,7,0.30
+Thumbtack,Consumer,423,0.30
+Clutter,Consumer,296,0.30
+IRL,Consumer,197,0.25
+Cameo,Consumer,165,0.25
+Mozilla,Consumer,2,0.25
+Superhuman,Consumer,108,0.22
+Jiobit,Consumer,12,0.21
+Afterverse,Consumer,0,0.20
+Airtime,Consumer,33,0.20
+SoundCloud,Consumer,542,0.20
+NCSoft,Consumer,240,0.20
+GoPro,Consumer,288,0.20
+Snap,Consumer,4900,0.20
+"Wildlife Studios",Consumer,260,0.20
+Yahoo,Consumer,6,0.20
+ShareChat,Consumer,1700,0.20
+BookMyShow,Consumer,224,0.18
+StyleSeat,Consumer,40,0.17
+Linktree,Consumer,165,0.17
+"Jam City",Consumer,652,0.17
+Yelp,Consumer,56,0.17
+Playtika,Consumer,0,0.15
+"Tilting Point",Consumer,235,0.14
+Thumbtack,Consumer,698,0.14
+Life360,Consumer,158,0.14
+Meta,Consumer,26000,0.13
+Lightricks,Consumer,335,0.12
+Sonos,Consumer,455,0.12
+Iflix,Consumer,348,0.12
+Vimeo,Consumer,450,0.11
+Skillz,Consumer,287,0.10
+Twitter,Consumer,12900,0.10
+Houzz,Consumer,613,0.10
+GetNinjas,Consumer,16,0.10
+"Mobile Premier League",Consumer,375,0.10
+iRobot,Consumer,30,0.10
+ByteDance,Consumer,9400,0.10
+Zhihu,Consumer,892,0.10
+Xiaohongshu,Consumer,917,0.09
+Viber,Consumer,0,0.08
+Houzz,Consumer,613,0.08
+"Match Group",Consumer,0,0.08
+Niantic,Consumer,770,0.08
+Picsart,Consumer,195,0.08
+Eventbrite,Consumer,557,0.08
+iRobot,Consumer,30,0.07
+Kabam,Consumer,244,0.07
+Vimeo,Consumer,450,0.06
+Playtika,Consumer,0,0.06
+Google,Consumer,26,0.06
+DraftKings,Consumer,719,0.04
+Dazn,Consumer,0,0.02
+Hodlnaut,Crypto,0,0.80
+Ignite,Crypto,9,0.50
+"Protego Trust Bank",Crypto,70,0.50
+Ocavu,Crypto,11,0.48
+Buenbit,Crypto,11,0.45
+Swyftx,Crypto,0,0.40
+WazirX,Crypto,0,0.40
+"Octopus Network",Crypto,8,0.40
+Lemon,Crypto,17,0.38
+Luno,Crypto,13,0.35
+"Candy Digital",Crypto,100,0.33
+"Prime Trust",Crypto,176,0.33
+NYDIG,Crypto,1400,0.33
+SuperRare,Crypto,9,0.30
+Elliptic,Crypto,40,0.30
+Bybit,Crypto,0,0.30
+Crypto.com,Crypto,156,0.30
+Genesis,Crypto,0,0.30
+Huobi,Crypto,2,0.30
+Kraken,Crypto,134,0.30
+Banxa,Crypto,13,0.30
+Bybit,Crypto,0,0.30
+BitMEX,Crypto,0,0.30
+Blockchain.com,Crypto,490,0.28
+Bitpanda,Crypto,546,0.27
+BitMEX,Crypto,0,0.25
+Shakepay,Crypto,45,0.25
+Blockchain.com,Crypto,490,0.25
+"Unstoppable Domains",Crypto,7,0.25
+Celsius,Crypto,864,0.25
+Coinsquare,Crypto,98,0.24
+Exodus,Crypto,60,0.22
+"Dapper Labs",Crypto,607,0.22
+Swyftx,Crypto,0,0.21
+Huobi,Crypto,2,0.20
+"Dapper Labs",Crypto,607,0.20
+Crypto.com,Crypto,0,0.20
+"Protocol Labs",Crypto,10,0.20
+CoinJar,Crypto,1,0.20
+Genesis,Crypto,0,0.20
+Polygon,Crypto,451,0.20
+OpenSea,Crypto,427,0.20
+Coinbase,Crypto,549,0.20
+BlockFi,Crypto,1000,0.20
+Quidax,Crypto,3,0.20
+Coinbase,Crypto,549,0.18
+"Unchained Capital",Crypto,33,0.15
+2TM,Crypto,250,0.15
+Bakkt,Crypto,932,0.15
+Messari,Crypto,61,0.15
+ConsenSys,Crypto,10,0.14
+Koinly,Crypto,0,0.14
+"Digital Currency Gruop",Crypto,0,0.13
+BitGo,Crypto,69,0.12
+2TM,Crypto,250,0.12
+ConsenSys,Crypto,726,0.11
+Bitso,Crypto,378,0.11
+Immutable,Crypto,279,0.11
+"Mythical Games",Crypto,260,0.10
+Gemini,Crypto,423,0.10
+Gemini,Crypto,423,0.10
+TIFIN,Crypto,204,0.10
+"Amber Group",Crypto,328,0.10
+ZenLedger,Crypto,25,0.10
+Matrixport,Crypto,100,0.10
+"Core Scientific",Crypto,169,0.10
+Bullish,Crypto,300,0.08
+Gemini,Crypto,423,0.07
+Immutable,Crypto,279,0.06
+Abra,Crypto,106,0.05
+Fireblocks,Crypto,1000,0.05
+Chainalysis,Crypto,536,0.05
+BitOasis,Crypto,30,0.05
+Crypto.com,Crypto,156,0.05
+NS8,Data,158,0.95
+Rasa,Data,40,0.40
+GrayMeta,Data,7,0.40
+Matterport,Data,114,0.34
+Validity,Data,0,0.33
+Revelate,Data,26,0.30
+NuoDB,Data,85,0.29
+Prisma,Data,56,0.28
+InfluxData,Data,119,0.27
+BitTitan,Data,46,0.27
+"Citrine Informatics",Data,64,0.27
+Anodot,Data,64,0.27
+DataRobot,Data,1000,0.26
+"Domino Data Lab",Data,223,0.25
+Hyperscience,Data,289,0.25
+SafeGraph,Data,61,0.25
+"Pecan AI",Data,116,0.25
+"Scale AI",Data,602,0.20
+Astronomer,Data,282,0.20
+Qumulo,Data,347,0.19
+Mixpanel,Data,77,0.19
+SQream,Data,77,0.18
+"App Annie",Data,156,0.18
+"Descartes Labs",Data,58,0.16
+Elastic,Data,162,0.13
+CloudFactory,Data,78,0.12
+Conga,Data,117,0.11
+Tray.io,Data,109,0.10
+Segment,Data,283,0.10
+Verbit,Data,569,0.10
+Domo,Data,689,0.10
+Pliops,Data,205,0.09
+Sisense,Data,274,0.09
+NetApp,Data,0,0.08
+MariaDB,Data,245,0.08
+Confluent,Data,455,0.08
+"Bright Machines",Data,250,0.08
+OpenText,Data,1100,0.08
+Informatica,Data,0,0.07
+BigBear.ai,Data,200,0.07
+DataRobot,Data,1000,0.07
+UiPath,Data,2000,0.06
+Fivetran,Data,0,0.05
+Code42,Data,138,0.05
+UiPath,Data,2000,0.05
+"Software AG",Data,344,0.04
+Splunk,Data,2400,0.04
+Palantir,Data,3000,0.02
+Splunk,Data,40,0.01
+Treehouse,Education,12,0.90
+FrontRow,Education,17,0.75
+Wonderschool,Education,24,0.75
+"Camp K12",Education,16,0.70
+BloomTech,Education,0,0.50
+Flockjay,Education,14,0.50
+Studio,Education,50,0.40
+ContaAzul,Education,37,0.35
+"Career Karma",Education,51,0.33
+"On Deck",Education,20,0.33
+Zenius,Education,20,0.30
+Harappa,Education,0,0.30
+FrontRow,Education,17,0.30
+BookClub,Education,26,0.25
+Outschool,Education,240,0.25
+"On Deck",Education,20,0.25
+MasterClass,Education,461,0.20
+Thinkific,Education,22,0.20
+Pluralsight,Education,192,0.20
+2U,Education,426,0.20
+Thinkific,Education,22,0.19
+Domestika,Education,130,0.19
+Outschool,Education,240,0.18
+Nerdy,Education,150,0.17
+Unacademy,Education,838,0.17
+Degreed,Education,411,0.15
+Udacity,Education,235,0.13
+Instructure,Education,89,0.12
+Unacademy,Education,838,0.10
+Udemy,Education,311,0.10
+Trybe,Education,40,0.10
+LearnUpon,Education,56,0.09
+"Lighthouse Labs",Education,0,0.07
+Vedantu,Education,292,0.07
+"Coding Dojo",Education,2,0.07
+ApplyBoard,Education,483,0.06
+D2L,Education,168,0.05
+Turnitin,Education,0,0.05
+Preply,Education,100,0.05
+Byju's,Education,5500,0.05
+Teachmint,Education,118,0.05
+LEAD,Education,166,0.04
+Vedantu,Education,292,0.03
+Unacademy,Education,838,0.03
+"Top Hat",Education,104,0.03
+NCX,Energy,78,0.40
+"5B Solar",Energy,12,0.25
+RigUp,Energy,423,0.25
+Turntide,Energy,491,0.20
+Wallbox,Energy,167,0.15
+Brighte,Energy,145,0.15
+Ecobee,Energy,149,0.10
+Thimble,Fin-Tech,28,0.33
+Clearco,Fin-Tech,681,0.25
+Moss,Fin-Tech,150,0.15
+ScaleFactor,Finance,103,0.90
+Zeitgold,Finance,60,0.72
+OPay,Finance,170,0.70
+Hash,Finance,58,0.50
+"Me Poupe",Finance,0,0.50
+"Bright Money",Finance,31,0.50
+Lendingkart,Finance,200,0.50
+PaisaBazaar,Finance,496,0.50
+Numbrs,Finance,78,0.50
+Renmoney,Finance,0,0.50
+"Lighter Capital",Finance,15,0.49
+SynapseFI,Finance,50,0.48
+Unison,Finance,40,0.45
+Fundbox,Finance,553,0.42
+Briza,Finance,10,0.40
+Plerk,Finance,13,0.40
+Doma,Finance,679,0.40
+"Foresight Insurance",Finance,58,0.40
+Jetty,Finance,40,0.40
+Pier,Finance,42,0.39
+"Happy Money",Finance,191,0.34
+Primer,Finance,73,0.33
+Metromile,Finance,293,0.33
+Juni,Finance,281,0.33
+Elinvar,Finance,30,0.33
+"Chipper Cash",Finance,302,0.33
+Tomo,Finance,110,0.33
+Omie,Finance,26,0.31
+"Lending Club",Finance,392,0.30
+ClearCo,Finance,698,0.30
+AtoB,Finance,177,0.30
+PeerStreet,Finance,110,0.30
+Mainstreet,Finance,64,0.30
+Bizpay,Finance,45,0.30
+Kueski,Finance,38,0.30
+Mogo,Finance,201,0.30
+Blend,Finance,665,0.28
+Bolt,Finance,1300,0.27
+EquityZen,Finance,11,0.27
+Uncapped,Finance,118,0.26
+Tomorrow,Finance,29,0.25
+Navi,Finance,582,0.25
+Aya,Finance,3,0.25
+PolicyGenius,Finance,286,0.25
+Migo,Finance,37,0.25
+Amount,Finance,283,0.25
+"BM Technologies",Finance,0,0.25
+Equitybee,Finance,85,0.25
+Capitolis,Finance,281,0.25
+PayJoy,Finance,71,0.25
+Lightico,Finance,42,0.25
+"Ladder Life",Finance,94,0.25
+Kontist,Finance,53,0.25
+"Apollo Insurance",Finance,11,0.25
+Capitolis,Finance,281,0.25
+"Change Invest",Finance,22,0.24
+Robinhood,Finance,5600,0.23
+Sunday,Finance,124,0.23
+Tally,Finance,92,0.23
+Quanto,Finance,15,0.22
+"Lighter Capital",Finance,15,0.22
+Greenlight,Finance,556,0.21
+Upstart,Finance,144,0.20
+"Root Insurance",Finance,527,0.20
+DriveWealth,Finance,550,0.20
+"Coterie Insurance",Finance,70,0.20
+Pagaya,Finance,571,0.20
+Nuri,Finance,42,0.20
+Equitybee,Finance,85,0.20
+Ebanx,Finance,460,0.20
+Stone,Finance,0,0.20
+Oriente,Finance,175,0.20
+Sensibill,Finance,50,0.20
+Borrowell,Finance,72,0.20
+Earnin,Finance,190,0.20
+Metromile,Finance,510,0.20
+Sezzle,Finance,301,0.20
+Loop,Finance,24,0.20
+Plaid,Finance,734,0.20
+Clear,Finance,140,0.20
+Nomad,Finance,290,0.20
+Socure,Finance,646,0.19
+Affirm,Finance,1500,0.19
+DataRails,Finance,103,0.18
+Amount,Finance,283,0.18
+"Funding Societies",Finance,42,0.18
+Lithic,Finance,115,0.18
+"Modern Treasury",Finance,183,0.18
+Kickstarter,Finance,10,0.18
+Zego,Finance,202,0.17
+InDebted,Finance,41,0.17
+Recharge,Finance,277,0.17
+"Next Insurance",Finance,881,0.17
+Carta,Finance,447,0.16
+Doma,Finance,679,0.15
+Pleo,Finance,428,0.15
+Rupeek,Finance,172,0.15
+DailyPay,Finance,814,0.15
+Wave,Finance,292,0.15
+Brex,Finance,732,0.15
+Polly,Finance,184,0.15
+Fundbox,Finance,453,0.15
+Smava,Finance,188,0.15
+Freetrade,Finance,133,0.15
+Koho,Finance,278,0.14
+"Credit Sesame",Finance,120,0.14
+"Corvus Insurance",Finance,160,0.14
+Bestow,Finance,137,0.14
+Stashaway,Finance,61,0.14
+"Ethos Life",Finance,106,0.14
+Stripe,Finance,2300,0.14
+"Lending Club",Finance,392,0.14
+"Chipper Cash",Finance,302,0.13
+Doma,Finance,679,0.13
+Socure,Finance,646,0.13
+Wealthsimple,Finance,900,0.13
+Flywire,Finance,263,0.12
+Embroker,Finance,142,0.12
+Chime,Finance,2300,0.12
+Dock,Finance,280,0.12
+"Ethos Life",Finance,406,0.12
+GoFundMe,Finance,0,0.12
+Blend,Finance,665,0.12
+Zuora,Finance,647,0.11
+Brex,Finance,1500,0.11
+Tipalti,Finance,565,0.11
+GoBear,Finance,97,0.11
+Smava,Finance,188,0.10
+"Hippo Insurance",Finance,1300,0.10
+Chargebee,Finance,468,0.10
+Bench,Finance,49,0.10
+Curve,Finance,182,0.10
+Zepto,Finance,25,0.10
+"Finleap Connect",Finance,22,0.10
+Solarisbank,Finance,385,0.10
+Neon,Finance,120,0.10
+Oportun,Finance,566,0.10
+TrueLayer,Finance,271,0.10
+Blend,Finance,665,0.10
+Ignition,Finance,74,0.10
+Klarna,Finance,3700,0.10
+Bolt,Finance,1300,0.10
+Freshbooks,Finance,75,0.09
+MeridianLink,Finance,485,0.09
+Acko,Finance,143,0.09
+Robinhood,Finance,5600,0.09
+Neon,Finance,720,0.09
+Monzo,Finance,324,0.08
+Stash,Finance,480,0.08
+Ebanx,Finance,30,0.08
+Ajaib,Finance,245,0.08
+Paddle,Finance,293,0.08
+Clearbanc,Finance,119,0.08
+"Stash Financial",Finance,480,0.08
+Albert,Finance,175,0.08
+KoinWorks,Finance,180,0.08
+Intuit,Finance,18,0.07
+Argyle,Finance,78,0.07
+PagBank,Finance,0,0.07
+Upstart,Finance,144,0.07
+Vouch,Finance,159,0.07
+PagSeguro,Finance,0,0.07
+PayPal,Finance,216,0.07
+nCino,Finance,1100,0.07
+SoFi,Finance,2500,0.07
+Creditas,Finance,314,0.06
+"C6 Bank",Finance,0,0.06
+Blend,Finance,665,0.06
+PayU,Finance,0,0.06
+Instamojo,Finance,8,0.06
+eToro,Finance,322,0.06
+Xendit,Finance,534,0.05
+Kuda,Finance,91,0.05
+BlackLine,Finance,220,0.05
+Checkout.com,Finance,1800,0.05
+Koho,Finance,278,0.04
+SumUp,Finance,50,0.03
+Addepar,Finance,491,0.03
+Ualá,Finance,544,0.03
+Revolut,Finance,837,0.03
+Guidewire,Finance,24,0.02
+C2FO,Finance,537,0.02
+Affirm,Finance,1500,0.01
+N26,Finance,782,0.01
+"Flywheel Sports",Fitness,120,0.98
+MindBody,Fitness,114,0.35
+Tonal,Fitness,450,0.35
+Hydrow,Fitness,269,0.35
+Gympass,Fitness,300,0.33
+eGym,Fitness,109,0.25
+ClassPass,Fitness,549,0.22
+iFit,Fitness,200,0.20
+Peloton,Fitness,1900,0.20
+CureFit,Fitness,404,0.16
+"Urban Sports Club",Fitness,95,0.15
+WHOOP,Fitness,404,0.15
+MindBody,Fitness,114,0.15
+Strava,Fitness,151,0.14
+Peloton,Fitness,1900,0.13
+Peloton,Fitness,1900,0.12
+Fittr,Fitness,13,0.11
+WHOOP,Fitness,404,0.04
+Zenoti,Fitness,91,0.04
+Avo,Food,45,0.67
+Foodsby,Food,20,0.67
+Zume,Food,423,0.67
+Ritual,Food,112,0.54
+"Iron Ox",Food,103,0.50
+Voly,Food,13,0.50
+Thriver,Food,53,0.50
+"Iris Nova",Food,15,0.50
+Gorillas,Food,1300,0.50
+Toast,Food,902,0.50
+ezCater,Food,319,0.44
+BharatAgri,Food,21,0.43
+Zak,Food,29,0.40
+Springlane,Food,11,0.35
+Lunchbox,Food,72,0.33
+"Misfits Market",Food,526,0.33
+Aqgromalin,Food,12,0.30
+Freshly,Food,107,0.25
+Chope,Food,50,0.24
+TouchBistro,Food,224,0.23
+Twiga,Food,157,0.21
+"Impossible Foods copy",Food,1900,0.20
+Quandoo,Food,39,0.20
+Bevi,Food,60,0.20
+"Daily Harvest",Food,120,0.20
+Milkrun,Food,86,0.20
+ChowNow,Food,64,0.20
+"Beyond Meat",Food,122,0.19
+Oda,Food,477,0.18
+Oda,Food,377,0.18
+"Mr. Yum",Food,73,0.17
+Ritual,Food,134,0.16
+"Daily Harvest",Food,120,0.15
+Deliveroo,Food,1500,0.15
+"Liv Up",Food,118,0.15
+Food52,Food,176,0.15
+Postmates,Food,763,0.15
+Getir,Food,1800,0.14
+Swiggy,Food,1600,0.14
+Zomato,Food,914,0.13
+Spyce,Food,26,0.12
+Kitopi,Food,804,0.10
+Weee!,Food,863,0.10
+"80 Acres Farms",Food,275,0.10
+Zapp,Food,300,0.10
+Gopuff,Food,3400,0.10
+Food52,Food,176,0.10
+Sweetgreen,Food,478,0.10
+ChowNow,Food,64,0.10
+"Blue Apron",Food,352,0.10
+Vendease,Food,43,0.09
+Deliveroo,Food,1700,0.09
+Synergysuite,Food,6,0.07
+Wonder,Food,850,0.07
+Swiggy,Food,3600,0.06
+"Impossible Foods",Food,1900,0.06
+iFood,Food,2100,0.06
+Glovo,Food,1200,0.06
+DoorDash,Food,2500,0.06
+Oda,Food,479,0.06
+JOKR,Food,430,0.05
+Sayurbox,Food,139,0.05
+DeHaat,Food,254,0.05
+Swiggy,Food,1600,0.05
+Foxtrot,Food,166,0.04
+"Delivery Hero",Food,9900,0.04
+Zomato,Food,914,0.04
+Swiggy,Food,3600,0.03
+Frubana,Food,202,0.03
+Dunzo,Food,382,0.03
+Gopuff,Food,3400,0.03
+"Rebel Foods",Food,548,0.02
+"Mojo Vision",Hardware,204,0.75
+"Twine Solutions",Hardware,50,0.33
+"Rigetti Computing",Hardware,298,0.28
+"Lam Research",Hardware,0,0.07
+Dell,Hardware,0,0.05
+"National Instruments",Hardware,0,0.04
+IBM,Hardware,0,0.02
+Rubius,Healthcare,445,0.82
+Docly,Healthcare,16,0.80
+MFine,Healthcare,97,0.75
+Rubius,Healthcare,445,0.75
+PhableCare,Healthcare,40,0.70
+"Cyteir Therapeutics",Healthcare,156,0.70
+"SQZ Biotech",Healthcare,229,0.60
+Tricida,Healthcare,624,0.57
+"Jounce Therapeutics",Healthcare,194,0.57
+"Fate Therapeutics",Healthcare,1200,0.57
+"Sage Therapeutics",Healthcare,438,0.53
+TwinStrand,Healthcare,73,0.50
+HealthMatch,Healthcare,20,0.50
+"Repertoire Immune Medicines",Healthcare,257,0.50
+Medly,Healthcare,100,0.50
+"Frequency Therapeutics",Healthcare,76,0.50
+"Circulo Health",Healthcare,50,0.50
+"Vesalius Therapeutics",Healthcare,75,0.43
+Tidepool,Healthcare,0,0.40
+"Sidecar Health",Healthcare,163,0.40
+"Incredible Health",Healthcare,15,0.40
+TCR2,Healthcare,173,0.40
+"Antidote Health",Healthcare,36,0.38
+ContraFect,Healthcare,380,0.37
+"Olive AI",Healthcare,856,0.35
+Breathe,Healthcare,6,0.33
+"Brave Care",Healthcare,42,0.33
+"Welkin Health",Healthcare,29,0.33
+Truepill,Healthcare,255,0.33
+Olive,Healthcare,856,0.31
+Clue,Healthcare,47,0.31
+"Nova Benefits",Healthcare,41,0.30
+"Akili Labs",Healthcare,0,0.30
+Synapsica,Healthcare,4,0.30
+54gene,Healthcare,44,0.30
+Betterfly,Healthcare,204,0.30
+Personalis,Healthcare,225,0.30
+Wheel,Healthcare,215,0.28
+"Talis Biomedical",Healthcare,8,0.25
+Quanterix,Healthcare,533,0.25
+Opencare,Healthcare,24,0.25
+"Butterfly Network",Healthcare,530,0.25
+Redox,Healthcare,50,0.25
+OneStudyTeam,Healthcare,479,0.25
+Synlogic,Healthcare,321,0.25
+Cedar,Healthcare,351,0.24
+Calibrate,Healthcare,127,0.24
+"Pear Therapeutics",Healthcare,409,0.22
+"Pear Therapeutics",Healthcare,409,0.22
+Advata,Healthcare,0,0.21
+PatientPop,Healthcare,75,0.20
+"Editas Medicine",Healthcare,656,0.20
+Eucalyptus,Healthcare,69,0.20
+GoHealth,Healthcare,75,0.20
+Calm,Healthcare,218,0.20
+"Redesign Health",Healthcare,315,0.20
+Cerebral,Healthcare,462,0.20
+"Lucid Diagnostics",Healthcare,0,0.20
+Sanar,Healthcare,11,0.20
+Brightline,Healthcare,212,0.20
+Synthego,Healthcare,459,0.20
+TCR2,Healthcare,173,0.20
+"Vedanta Biosciences",Healthcare,301,0.20
+Codexis,Healthcare,162,0.18
+Ro,Healthcare,1000,0.18
+"Nomad Health",Healthcare,218,0.17
+Wheel,Healthcare,215,0.17
+Medly,Healthcare,100,0.16
+Alice,Healthcare,174,0.16
+GoodRx,Healthcare,910,0.16
+OrCam,Healthcare,86,0.16
+Sana,Healthcare,700,0.15
+Cerebral,Healthcare,462,0.15
+Verily,Healthcare,3500,0.15
+Truepill,Healthcare,255,0.15
+Sami,Healthcare,36,0.15
+Innovaccer,Healthcare,379,0.15
+SonderMind,Healthcare,183,0.15
+"Vicarious Surgical",Healthcare,185,0.14
+AlayaCare,Healthcare,293,0.14
+"Castlight Health",Healthcare,184,0.13
+RealSelf,Healthcare,42,0.13
+Sema4,Healthcare,791,0.13
+Capsule,Healthcare,570,0.13
+Philips,Healthcare,0,0.13
+"Vibrent Health",Healthcare,0,0.13
+"Quantum SI",Healthcare,425,0.12
+"Berkeley Lights",Healthcare,272,0.12
+"Adaptive Biotechnologies",Healthcare,406,0.12
+Noom,Healthcare,657,0.10
+Kry,Healthcare,568,0.10
+Kry,Healthcare,568,0.10
+"Thirty Madison",Healthcare,209,0.10
+Vezeeta,Healthcare,71,0.10
+98point6,Healthcare,247,0.10
+Plum,Healthcare,20,0.10
+"Butterfly Network",Healthcare,530,0.10
+NanoString,Healthcare,731,0.10
+Merative,Healthcare,0,0.10
+"Komodo Health",Healthcare,514,0.09
+"Pear Therapeutics",Healthcare,409,0.09
+"Komodo Health",Healthcare,50,0.09
+"Beam Benefits",Healthcare,168,0.08
+Innovaccer,Healthcare,379,0.08
+"10X Genomics",Healthcare,242,0.08
+"Carbon Health",Healthcare,522,0.08
+"Guardant Health",Healthcare,550,0.07
+"Alto Pharmacy",Healthcare,356,0.06
+"Teladoc Health",Healthcare,172,0.06
+"Definitive Healthcare",Healthcare,0,0.06
+"Included Health",Healthcare,272,0.06
+RealSelf,Healthcare,42,0.05
+Forward,Healthcare,225,0.05
+"Oscar Health",Healthcare,1300,0.05
+Philips,Healthcare,0,0.05
+Illumina,Healthcare,28,0.05
+"Clarify Health",Healthcare,328,0.05
+BioMarin,Healthcare,585,0.04
+Headspace,Healthcare,215,0.04
+Forward,Healthcare,100,0.03
+Vee,HR,15,0.50
+Plato,HR,3,0.50
+Peerfit,HR,47,0.40
+Namely,HR,217,0.40
+"When I Work",HR,24,0.35
+Kazoo,HR,8,0.35
+Vee,HR,15,0.32
+Hibob,HR,45,0.30
+Deputy,HR,106,0.30
+Envoy,HR,59,0.30
+Compete,HR,17,0.28
+Parsable,HR,72,0.25
+"The Predictive Index",HR,65,0.25
+Relevel,HR,0,0.20
+Stint,HR,0,0.20
+Workmotion,HR,76,0.20
+WorkRamp,HR,67,0.20
+PayFit,HR,495,0.20
+"Sana Benefits",HR,106,0.19
+"Dynamic Signal",HR,114,0.19
+Glints,HR,82,0.18
+Lattice,HR,328,0.15
+Zenefits,HR,583,0.15
+"The Mom Project",HR,115,0.15
+Limeade,HR,33,0.15
+Woven,HR,11,0.15
+Beamery,HR,223,0.12
+Checkr,HR,309,0.12
+Lattice,HR,49,0.10
+PerkSpot,HR,50,0.10
+CoachHub,HR,332,0.10
+Carta,HR,1100,0.10
+Remote,HR,496,0.09
+Scoro,HR,23,0.09
+"Culture Amp",HR,157,0.08
+Skedulo,HR,114,0.08
+HackerEarth,HR,11,0.08
+Gusto,HR,746,0.05
+Pegasystems,HR,0,0.04
+Workday,HR,230,0.03
+"Pavilion Data",Infrastructure,103,0.96
+CTO.ai,Infrastructure,7,0.50
+Hologram,Infrastructure,82,0.40
+Nyriad,Infrastructure,58,0.33
+Aiven,Infrastructure,420,0.20
+Mux,Infrastructure,173,0.20
+"Sauce Labs",Infrastructure,151,0.15
+Puppet,Infrastructure,189,0.15
+Citrix,Infrastructure,20,0.15
+Bitrise,Infrastructure,83,0.14
+D2iQ,Infrastructure,247,0.13
+Automox,Infrastructure,152,0.11
+DigitalOcean,Infrastructure,491,0.11
+ScaleFocus,Infrastructure,0,0.10
+Puppet,Infrastructure,149,0.10
+Edgio,Infrastructure,462,0.10
+Datera,Infrastructure,63,0.10
+"New Relic",Infrastructure,215,0.07
+Teleport,Infrastructure,169,0.06
+Cisco,Infrastructure,2,0.05
+"New Relic",Infrastructure,214,0.05
+Nutanix,Infrastructure,1100,0.04
+Lawgeex,Legal,41,0.33
+Notarize,Legal,213,0.25
+SirionLabs,Legal,171,0.15
+OneTrust,Legal,410,0.10
+Relativity,Legal,125,0.10
+"CS Disco",Legal,233,0.09
+Intapp,Legal,0,0.05
+Exterro,Legal,100,0.03
+Fabric,Logistics,336,0.40
+uShip,Logistics,69,0.37
+Airlift,Logistics,109,0.31
+"Truck It In",Logistics,17,0.30
+FarEye,Logistics,150,0.30
+Swyft,Logistics,20,0.30
+EasyPost,Logistics,12,0.25
+Shippo,Logistics,154,0.20
+Flexport,Logistics,2400,0.20
+Sendy,Logistics,26,0.20
+KeepTruckin,Logistics,227,0.18
+Samsara,Logistics,530,0.18
+Loggi,Logistics,507,0.15
+Sendle,Logistics,69,0.12
+Bringg,Logistics,84,0.10
+SendCloud,Logistics,200,0.10
+"Blume Global",Logistics,0,0.10
+Sendy,Logistics,26,0.10
+Transfix,Logistics,128,0.10
+Forto,Logistics,593,0.08
+FourKites,Logistics,201,0.08
+Stord,Logistics,325,0.08
+"Arrive Logistics",Logistics,35,0.07
+Convoy,Logistics,1100,0.07
+Loggi,Logistics,507,0.07
+ShipBob,Logistics,330,0.07
+Project44,Logistics,817,0.05
+GoBolt,Logistics,178,0.05
+"Uber Freight",Logistics,2700,0.03
+Convoy,Logistics,665,0.01
+Augury,Manufacturing,274,0.05
+Pebblepost,Marketing,81,0.60
+Gatherly,Marketing,0,0.50
+Sojern,Marketing,162,0.50
+Wayflyer,Marketing,889,0.40
+Nativo,Marketing,35,0.40
+Bizzabo,Marketing,194,0.37
+Linkfire,Marketing,2,0.35
+Button,Marketing,64,0.35
+OneFootball,Marketing,442,0.32
+Bizzabo,Marketing,194,0.30
+AdRoll,Marketing,89,0.30
+Hootsuite,Marketing,300,0.30
+Snappy,Marketing,104,0.30
+UPshow,Marketing,7,0.30
+Community,Marketing,40,0.30
+Pitch,Marketing,137,0.30
+OutboundEngine,Marketing,48,0.28
+GumGum,Marketing,58,0.25
+ShareChat,Marketing,222,0.25
+BVAccel,Marketing,0,0.25
+Usermind,Marketing,46,0.25
+"Rock Content",Marketing,1,0.20
+BounceX,Marketing,75,0.20
+Crayon,Marketing,16,0.20
+Unbounce,Marketing,39,0.20
+Flytedesk,Marketing,4,0.20
+CleverTap,Marketing,76,0.20
+"Branch Metrics",Marketing,367,0.20
+TripleLift,Marketing,16,0.20
+Venngage,Marketing,0,0.20
+People.ai,Marketing,100,0.18
+Emotive,Marketing,78,0.18
+#Paid,Marketing,21,0.17
+Uberflip,Marketing,42,0.17
+Air,Marketing,18,0.16
+ActiveCampaign,Marketing,360,0.15
+Namogoo,Marketing,69,0.15
+Optimizely,Marketing,251,0.15
+Liftoff,Marketing,6,0.15
+Talkwalker,Marketing,9,0.15
+OpenX,Marketing,70,0.15
+"Rock Content",Marketing,34,0.15
+"OLX Group",Marketing,0,0.15
+Attentive,Marketing,863,0.15
+Namogoo,Marketing,69,0.15
+Sendoso,Marketing,152,0.14
+DialSource,Marketing,26,0.14
+Momentive,Marketing,1100,0.14
+Grin,Marketing,145,0.13
+SundaySky,Marketing,74,0.13
+Viant,Marketing,0,0.13
+"Voyage SMS",Marketing,10,0.13
+"Integral Ad Science",Marketing,116,0.13
+OneFootball,Marketing,442,0.12
+Showpad,Marketing,159,0.12
+FullStory,Marketing,197,0.12
+Hotmart,Marketing,127,0.12
+Permutive,Marketing,105,0.12
+Hubilo,Marketing,153,0.12
+AppLovin,Marketing,1600,0.12
+Momentive,Marketing,1100,0.11
+Lusha,Marketing,245,0.10
+Wordstream,Marketing,28,0.10
+Innovid,Marketing,295,0.10
+"Integral Ad Science",Marketing,116,0.10
+Impact.com,Marketing,361,0.10
+VideoAmp,Marketing,106,0.10
+Cvent,Marketing,146,0.10
+LiveRamp,Marketing,16,0.10
+&Open,Marketing,35,0.09
+Yotpo,Marketing,436,0.09
+Yext,Marketing,117,0.08
+GoDaddy,Marketing,800,0.08
+MediaMath,Marketing,607,0.08
+"Rubicon Project",Marketing,60,0.08
+NextRoll,Marketing,108,0.07
+HubSpot,Marketing,100,0.07
+TripleLift,Marketing,16,0.07
+Hootsuite,Marketing,300,0.07
+Wix,Marketing,58,0.06
+Taboola,Marketing,445,0.06
+GoDaddy,Marketing,0,0.06
+Magnite,Marketing,400,0.06
+Quantcast,Marketing,65,0.06
+TechTarget,Marketing,115,0.05
+Tiendanube,Marketing,0,0.05
+Perion,Marketing,76,0.05
+G2,Marketing,101,0.05
+Vendasta,Marketing,178,0.05
+Hootsuite,Marketing,300,0.05
+Quantcast,Marketing,65,0.05
+Skai,Marketing,60,0.04
+LoopMe,Marketing,32,0.04
+NextRoll,Marketing,108,0.03
+Amperity,Marketing,187,0.03
+Outbrain,Marketing,394,0.03
+VideoAmp,Marketing,456,0.02
+SmartNews,Media,410,0.40
+Quartz,Media,0,0.40
+Legible,Media,3,0.38
+"Callisto Media",Media,0,0.35
+"Callisto Media",Media,0,0.35
+"Wave Sports and Entertainment",Media,65,0.33
+"Culture Trip",Media,102,0.32
+Geekwire,Media,0,0.31
+Bilibili,Media,3700,0.30
+Medium,Media,163,0.25
+StoryBlocks,Media,18,0.25
+Highsnobiety,Media,9,0.25
+"Pocket Aces",Media,19,0.25
+Overtime,Media,35,0.23
+VerticalScope,Media,0,0.22
+Flipboard,Media,235,0.21
+"Avantage Entertainment",Media,0,0.20
+TheSkimm,Media,28,0.20
+StreamElements,Media,111,0.20
+StreamElements,Media,111,0.20
+Buzzer,Media,32,0.20
+"Her Campus Media",Media,0,0.18
+Patreon,Media,413,0.17
+Acast,Media,126,0.15
+"O'Reilly Media",Media,0,0.15
+Outside,Media,174,0.15
+Elementor,Media,65,0.15
+"Morning Brew",Media,0,0.14
+Fandom,Media,145,0.14
+Substack,Media,82,0.14
+Patreon,Media,165,0.13
+Synamedia,Media,0,0.12
+Outside,Media,174,0.12
+BuzzFeed,Media,696,0.12
+Kaltura,Media,166,0.11
+CNET,Media,20,0.10
+Storytel,Media,275,0.10
+Kaltura,Media,166,0.10
+TheSkimm,Media,28,0.10
+"Minute Media",Media,160,0.10
+Maven,Media,77,0.09
+"Bustle Digital Group",Media,80,0.08
+"Bustle Digital Group",Media,80,0.08
+SiriusXM,Media,525,0.08
+Jellysmack,Media,22,0.08
+"The Athletic",Media,139,0.08
+Cloudinary,Media,100,0.08
+"Vox Media",Media,307,0.07
+"Group Nine Media",Media,190,0.07
+Roku,Media,208,0.07
+Spotify,Media,2100,0.06
+"G/O Media Group",Media,0,0.05
+OpenWeb,Media,223,0.05
+"VerSe Innovation",Media,1700,0.05
+Netflix,Media,121900,0.03
+"Vox Media",Media,307,0.02
+Netflix,Media,121900,0.01
+Fluke,Other,0,0.82
+"American Robotics",Other,92,0.65
+Infarm,Other,604,0.50
+Starry,Other,260,0.50
+SoundHound,Other,326,0.50
+Lendis,Other,90,0.50
+Meero,Other,293,0.50
+Dispatch,Other,18,0.38
+Hubilo,Other,153,0.35
+MessageBird,Other,1100,0.31
+LeafLink,Other,379,0.31
+MyGate,Other,79,0.30
+Prosus,Other,0,0.30
+Rows,Other,25,0.30
+Whispir,Other,68,0.30
+Hopin,Other,1000,0.29
+Kinde,Other,10,0.28
+Electric,Other,212,0.25
+Weedmaps,Other,0,0.25
+Starry,Other,260,0.24
+Karbon,Other,91,0.23
+Tonkean,Other,83,0.23
+Lokalise,Other,56,0.23
+Esper,Other,10,0.21
+"Dude Solutions",Other,100,0.20
+Submittable,Other,17,0.20
+Intrinsic,Other,0,0.20
+Zencity,Other,51,0.20
+"Pico Interactive",Other,62,0.20
+Change.org,Other,72,0.19
+TealBook,Other,73,0.19
+Nextiva,Other,200,0.17
+Twilio,Other,614,0.17
+Kandji,Other,188,0.17
+Hopin,Other,1000,0.17
+Jimdo,Other,28,0.16
+Zoom,Other,276,0.15
+"Element AI",Other,257,0.15
+Element,Other,96,0.15
+Dropbox,Other,1700,0.15
+Lendis,Other,90,0.15
+Tackle,Other,148,0.15
+Papa,Other,241,0.15
+Benevity,Other,69,0.14
+Blackbaud,Other,0,0.14
+Symend,Other,148,0.13
+Hopin,Other,1000,0.12
+"Desktop Metal",Other,811,0.12
+Esper,Other,10,0.12
+Twilio,Other,614,0.11
+"Rubicon Technologies",Other,382,0.11
+SADA,Other,0,0.11
+"Plus One Robotics",Other,43,0.10
+SoundHound,Other,326,0.10
+RingCentral,Other,44,0.10
+Workato,Other,415,0.10
+Zymergen,Other,574,0.10
+ResearchGate,Other,87,0.10
+SimilarWeb,Other,235,0.10
+Unico,Other,336,0.10
+Weedmaps,Other,0,0.10
+"Automation Anywhere",Other,840,0.10
+Improbable,Other,704,0.10
+Bonterra,Other,0,0.10
+Asana,Other,453,0.09
+Ericsson,Other,663,0.08
+Q4,Other,91,0.08
+Fiverr,Other,111,0.08
+ClickUp,Other,537,0.07
+Dutchie,Other,603,0.07
+Miro,Other,476,0.07
+Qualtrics,Other,400,0.05
+Infarm,Other,604,0.05
+Atlassian,Other,210,0.05
+Microsoft,Other,1,0.05
+Unity,Other,1300,0.04
+Unico,Other,336,0.04
+Thoughtworks,Other,748,0.04
+SAP,Other,1300,0.03
+WalkMe,Other,307,0.03
+Unity,Other,1300,0.03
+Smartsheet,Other,152,0.03
+Autodesk,Other,0,0.02
+InVision,Product,356,0.50
+Glitch,Product,30,0.36
+Rangle,Product,0,0.30
+Bryter,Product,89,0.30
+Stedi,Product,75,0.30
+Gitpod,Product,41,0.28
+Nylas,Product,175,0.25
+Airtable,Product,1400,0.20
+Productboard,Product,0,0.20
+CircleCI,Product,315,0.17
+Netlify,Product,212,0.16
+Apollo,Product,183,0.15
+Loom,Product,203,0.14
+Builder,Product,29,0.14
+Stream,Product,58,0.12
+Intersect,Product,0,0.11
+Loom,Product,203,0.11
+GitHub,Product,350,0.10
+Connected,Product,0,0.10
+Mural,Product,192,0.10
+Xentral,Product,94,0.10
+Jellyfish,Product,114,0.09
+Sourcegraph,Product,248,0.08
+GitLab,Product,413,0.07
+PagerDuty,Product,173,0.07
+Pendo,Product,469,0.05
+Jama,Product,233,0.05
+Ribbon,"Real Estate",405,0.85
+Breather,"Real Estate",131,0.80
+Loftsmart,"Real Estate",18,0.75
+Peerspace,"Real Estate",34,0.75
+Mudafy,"Real Estate",13,0.70
+Loftium,"Real Estate",17,0.60
+Propzy,"Real Estate",33,0.50
+"Zeus Living","Real Estate",79,0.50
+"The Wing","Real Estate",117,0.50
+Domio,"Real Estate",116,0.50
+"Atlanta Tech Village","Real Estate",0,0.50
+"Zeus Living","Real Estate",151,0.46
+Knock,"Real Estate",654,0.46
+Flyhomes,"Real Estate",310,0.40
+"Eden / Managed By Q","Real Estate",40,0.40
+Opendoor,"Real Estate",1500,0.35
+Better.com,"Real Estate",905,0.33
+Veev,"Real Estate",597,0.30
+Lev,"Real Estate",114,0.30
+Knotel,"Real Estate",560,0.30
+"Zeus Living","Real Estate",79,0.30
+Pacaso,"Real Estate",217,0.30
+Casavo,"Real Estate",708,0.30
+Homie,"Real Estate",35,0.29
+"Clear Capital","Real Estate",0,0.27
+Cadre,"Real Estate",133,0.25
+SkySlope,"Real Estate",0,0.25
+"Clear Capital","Real Estate",0,0.25
+Homeward,"Real Estate",501,0.25
+Blueground,"Real Estate",77,0.25
+Zillow,"Real Estate",97,0.25
+Willow,"Real Estate",0,0.22
+CrowdStreet,"Real Estate",24,0.22
+WeWork,"Real Estate",19500,0.20
+Industrious,"Real Estate",222,0.20
+Ziroom,"Real Estate",2100,0.20
+Roofstock,"Real Estate",365,0.20
+Homeward,"Real Estate",160,0.20
+Rhino,"Real Estate",133,0.20
+JetClosing,"Real Estate",24,0.20
+Flyhomes,"Real Estate",310,0.20
+HomeLight,"Real Estate",743,0.19
+Convene,"Real Estate",280,0.18
+Opendoor,"Real Estate",1900,0.18
+Snapdocs,"Real Estate",253,0.15
+Compass,"Real Estate",1600,0.15
+Sundae,"Real Estate",135,0.15
+Loft,"Real Estate",788,0.15
+Zumper,"Real Estate",178,0.15
+"Juniper Square","Real Estate",108,0.14
+Homebot,"Real Estate",4,0.13
+Homie,"Real Estate",35,0.13
+Redfin,"Real Estate",320,0.13
+"Divvy Homes","Real Estate",180,0.12
+Loft,"Real Estate",788,0.12
+Loft,"Real Estate",788,0.12
+Side,"Real Estate",313,0.10
+Snapdocs,"Real Estate",253,0.10
+Compass,"Real Estate",1600,0.10
+Loft,"Real Estate",263,0.10
+Orchard,"Real Estate",472,0.10
+"Apartment List","Real Estate",169,0.10
+Better.com,"Real Estate",905,0.09
+Knotel,"Real Estate",560,0.08
+"Divvy Homes","Real Estate",180,0.08
+Redfin,"Real Estate",319,0.08
+QuintoAndar,"Real Estate",335,0.08
+Redfin,"Real Estate",319,0.07
+Offerpad,"Real Estate",355,0.07
+Kiavi,"Real Estate",240,0.07
+Zillow,"Real Estate",97,0.05
+QuintoAndar,"Real Estate",755,0.04
+Qwick,Recruiting,4,0.70
+Lever,Recruiting,72,0.40
+Hirect,Recruiting,0,0.40
+ZipRecruiter,Recruiting,219,0.39
+Gem,Recruiting,148,0.33
+Glassdoor,Recruiting,204,0.30
+Dover,Recruiting,22,0.30
+"Greenhouse Software",Recruiting,110,0.28
+"Built In",Recruiting,29,0.25
+Textio,Recruiting,41,0.20
+Jobcase,Recruiting,118,0.20
+Hireology,Recruiting,52,0.17
+Triplebyte,Recruiting,48,0.17
+Kenoby,Recruiting,23,0.16
+"Stack Overflow",Recruiting,68,0.15
+Wonolo,Recruiting,52,0.13
+Andela,Recruiting,181,0.10
+Workable,Recruiting,84,0.10
+LinkedIn,Recruiting,154,0.06
+Bonsai,Retail,27,0.55
+Worksmith,Retail,4,0.50
+"Bossa Nova",Retail,102,0.50
+"Le Tote",Retail,62,0.50
+Shipsi,Retail,2,0.50
+Trell,Retail,62,0.50
+B8ta,Retail,88,0.50
+Leafly,Retail,2,0.50
+Thread,Retail,40,0.50
+Groupon,Retail,1400,0.44
+"AliExpress Russia",Retail,60,0.40
+Shop101,Retail,19,0.40
+"Tamara Mellon",Retail,90,0.40
+Glossier,Retail,186,0.38
+Minted,Retail,297,0.37
+Artnight,Retail,0,0.36
+Made.com,Retail,136,0.35
+Bonsai,Retail,27,0.34
+CommerceHub,Retail,0,0.31
+CityMall,Retail,112,0.30
+Facily,Retail,502,0.30
+Shogun,Retail,114,0.30
+ThirdLove,Retail,68,0.30
+JD.ID,Retail,5100,0.30
+Meesho,Retail,215,0.28
+Branch,Retail,2,0.27
+Lyst,Retail,144,0.25
+Flowr,Retail,0,0.25
+"The Sill",Retail,7,0.25
+"Rent the Runway",Retail,526,0.24
+Ula,Retail,140,0.23
+Casper,Retail,339,0.21
+Leafly,Retail,71,0.21
+"Eight Sleep",Retail,70,0.20
+Heroes,Retail,265,0.20
+Packable,Retail,472,0.20
+Jumia,Retail,1200,0.20
+GoSpotCheck,Retail,47,0.20
+Nate,Retail,47,0.20
+Zola,Retail,140,0.20
+"iPrice Group",Retail,26,0.20
+"Stitch Fix",Retail,79,0.20
+OfferUp,Retail,381,0.19
+Involves,Retail,23,0.18
+Enjoy,Retail,310,0.18
+"Stitch Fix",Retail,79,0.18
+1stdibs,Retail,253,0.17
+Swappie,Retail,169,0.17
+Everlane,Retail,176,0.17
+Wish,Retail,1600,0.17
+"Grove Collaborative",Retail,474,0.17
+Article,Retail,0,0.17
+UpScalio,Retail,62,0.15
+Flowhub,Retail,45,0.15
+Ibotta,Retail,85,0.15
+ThredUp,Retail,305,0.15
+Finder,Retail,30,0.15
+"Stitch Fix",Retail,79,0.15
+"Daniel Wellington",Retail,0,0.15
+Livspace,Retail,157,0.15
+Wish,Retail,1600,0.15
+Mejuri,Retail,28,0.15
+Groupon,Retail,1400,0.15
+Redbubble,Retail,55,0.14
+"Benitago Group",Retail,380,0.14
+VTEX,Retail,365,0.13
+Chrono24,Retail,205,0.13
+Salsify,Retail,97,0.13
+BigCommerce,Retail,224,0.13
+"Back Market",Retail,1000,0.13
+Trax,Retail,1000,0.12
+StockX,Retail,160,0.12
+Zilingo,Retail,307,0.12
+Reach,Retail,30,0.12
+Bark,Retail,0,0.12
+Salsify,Retail,452,0.11
+Daraz,Retail,0,0.11
+Away,Retail,181,0.10
+Mejuri,Retail,28,0.10
+"Lightspeed Commerce",Retail,1200,0.10
+Firework,Retail,269,0.10
+Shopify,Retail,122,0.10
+"Una Brands",Retail,55,0.10
+Grover,Retail,2300,0.10
+"The RealReal",Retail,358,0.10
+Wayfair,Retail,1700,0.10
+Trax,Retail,386,0.10
+"Loja Integrada",Retail,0,0.10
+Carousell,Retail,372,0.10
+Enjoei,Retail,14,0.10
+"Berlin Brands Group",Retail,1000,0.10
+Marketforce,Retail,42,0.09
+Glossier,Retail,266,0.08
+StockX,Retail,690,0.08
+"Pomelo Fashion",Retail,120,0.08
+Syte,Retail,71,0.08
+SIRCLO,Retail,92,0.08
+Trax,Retail,1000,0.08
+SSense,Retail,0,0.07
+"The RealReal",Retail,356,0.07
+Faire,Retail,1700,0.07
+"The Iconic",Retail,0,0.06
+DealShare,Retail,390,0.06
+Saks.com,Retail,965,0.05
+Boozt,Retail,56,0.05
+Zilingo,Retail,307,0.05
+"Boosted Commerce",Retail,137,0.05
+Wayfair,Retail,1700,0.05
+Zappos,Retail,62,0.04
+eBay,Retail,1200,0.04
+Udaan,Retail,1500,0.04
+Amazon,Retail,108,0.03
+MadeiraMadeira,Retail,338,0.03
+Poshmark,Retail,153,0.02
+Moglix,Retail,472,0.02
+Amazon,Retail,108,0.02
+Mercos,Sales,2,0.40
+Springbig,Sales,32,0.23
+PartnerStack,Sales,36,0.20
+Introhive,Sales,125,0.16
+Pipedrive,Sales,90,0.15
+DocuSign,Sales,536,0.10
+Khoros,Sales,138,0.10
+6sense,Sales,426,0.10
+CaptivateIQ,Sales,164,0.10
+Salesloft,Sales,245,0.10
+Salesforce,Sales,65,0.10
+Highspot,Sales,644,0.10
+Forma.ai,Sales,58,0.09
+DocuSign,Sales,536,0.09
+Loopio,Sales,11,0.08
+ServiceTitan,Sales,1100,0.08
+Gong,Sales,583,0.07
+Outreach,Sales,489,0.07
+Outreach,Sales,489,0.05
+Demandbase,Sales,143,0.03
+Salesforce,Sales,65,0.02
+Salesforce,Sales,65,0.01
+Lastline,Security,52,0.40
+Latch,Security,342,0.37
+Tor,Security,1,0.37
+IronNet,Security,410,0.35
+Latch,Security,342,0.28
+Stytch,Security,126,0.25
+Avast,Security,0,0.25
+OneTrust,Security,926,0.25
+AppGate,Security,0,0.22
+Veriff,Security,7,0.21
+Lacework,Security,1900,0.20
+"Finite State",Security,49,0.20
+IronNet,Security,410,0.17
+Ermetic,Security,97,0.17
+OwnBackup,Security,507,0.17
+Cybereason,Security,750,0.17
+Code42,Security,137,0.15
+CyCognito,Security,153,0.15
+Devo,Security,481,0.15
+Vanta,Security,203,0.14
+NSO,Security,1,0.14
+Snyk,Security,849,0.14
+Malwarebytes,Security,80,0.14
+Pipl,Security,19,0.13
+Jumpcloud,Security,416,0.12
+InfoSum,Security,88,0.12
+Veriff,Security,192,0.12
+Checkmarx,Security,92,0.10
+"Immersive Labs",Security,123,0.10
+"Deep Instinct",Security,259,0.10
+ForeScout,Security,125,0.10
+Tufin,Security,21,0.10
+"Aqua Security",Security,265,0.10
+Sophos,Security,125,0.10
+AU10TIX,Security,80,0.09
+SecureWorks,Security,83,0.09
+"Aqua Security",Security,100,0.09
+Aura,Security,500,0.09
+"Perimeter 81",Security,165,0.08
+Appgate,Security,0,0.08
+"Transmit Security",Security,583,0.07
+"NCC Group",Security,0,0.07
+Latch,Security,342,0.06
+Jumio,Security,205,0.06
+Cybereason,Security,750,0.06
+Truiloo,Security,474,0.05
+Okta,Security,1200,0.05
+Varonis,Security,30,0.05
+Cognyte,Security,0,0.05
+Armis,Security,537,0.04
+Zscaler,Security,148,0.03
+F5,Security,0,0.01
+Unbabel,Support,91,0.35
+Clinc,Support,59,0.32
+Movidesk,Support,1,0.25
+"Ada Support",Support,60,0.23
+LiveVox,Support,12,0.16
+Ada,Support,190,0.16
+Exotel,Support,87,0.15
+Cogito,Support,92,0.14
+Intercom,Support,240,0.13
+Podium,Support,419,0.12
+LivePerson,Support,42,0.11
+Uniphore,Support,620,0.10
+8x8,Support,253,0.09
+Personetics,Support,178,0.08
+8x8,Support,253,0.07
+Intercom,Support,240,0.06
+Intercom,Support,240,0.05
+Zendesk,Support,85,0.05
+Sprinklr,Support,429,0.04
+Amdocs,Support,0,0.03
+Freshworks,Support,484,0.02
+TaskUs,Support,279,0.00
+Baraja,Transportation,63,0.75
+GoMechanic,Transportation,54,0.70
+"Embark Trucks",Transportation,317,0.70
+Volta,Transportation,575,0.54
+"Virgin Hyperloop",Transportation,368,0.50
+Otonomo,Transportation,231,0.50
+SWVL,Transportation,264,0.50
+Arrival,Transportation,629,0.50
+Bounce,Transportation,214,0.40
+Moovel,Transportation,0,0.37
+"Share Now",Transportation,0,0.36
+"Divergent 3D",Transportation,88,0.36
+Ola,Transportation,3800,0.35
+Scoop,Transportation,95,0.33
+BusBud,Transportation,21,0.32
+SWVL,Transportation,132,0.32
+Careem,Transportation,771,0.31
+Arrival,Transportation,629,0.30
+TrueCar,Transportation,340,0.30
+Buser,Transportation,138,0.30
+Bird,Transportation,623,0.30
+Turo,Transportation,467,0.30
+Spin,Transportation,8,0.25
+Uber,Transportation,24700,0.25
+Baton,Transportation,13,0.25
+Getaround,Transportation,403,0.25
+TuSimple,Transportation,648,0.25
+Bird,Transportation,783,0.23
+Uber,Transportation,24700,0.23
+Bounce,Transportation,214,0.22
+Clutch,Transportation,153,0.22
+SpotHero,Transportation,117,0.21
+Vroom,Transportation,1300,0.20
+"Oye Rickshaw",Transportation,13,0.20
+"Kodiak Robotics",Transportation,40,0.20
+Nuro,Transportation,2100,0.20
+Zipcar,Transportation,107,0.20
+Carwow,Transportation,157,0.20
+Lyft,Transportation,4900,0.17
+"Tier Mobility",Transportation,646,0.16
+Dance,Transportation,63,0.16
+Zoomo,Transportation,105,0.16
+Ridecell,Transportation,73,0.15
+Cazoo,Transportation,2000,0.15
+Ike,Transportation,52,0.14
+Vroom,Transportation,1300,0.14
+Uber,Transportation,24700,0.14
+"Rad Power Bikes",Transportation,329,0.14
+Lime,Transportation,765,0.13
+Voi,Transportation,515,0.13
+CarGurus,Transportation,1,0.13
+Lyft,Transportation,4900,0.13
+Uber,Transportation,24700,0.13
+"GoTo Group",Transportation,1300,0.12
+Carvana,Transportation,1600,0.12
+"REE Automotive",Transportation,317,0.11
+Starship,Transportation,197,0.11
+Moladin,Transportation,138,0.11
+Ouster,Transportation,282,0.10
+Volta,Transportation,575,0.10
+Spin,Transportation,8,0.10
+"Rad Power Bikes",Transportation,329,0.10
+Zoox,Transportation,955,0.10
+TomTom,Transportation,0,0.10
+Voi,Transportation,515,0.10
+Carsome,Transportation,607,0.10
+HopSkipDrive,Transportation,45,0.10
+Getaround,Transportation,948,0.10
+Tesla,Transportation,20200,0.10
+Ouster,Transportation,132,0.10
+Gojek,Transportation,4800,0.09
+Carvana,Transportation,1600,0.08
+Waymo,Transportation,5500,0.08
+Cruise,Transportation,5300,0.08
+Superpedestrian,Transportation,261,0.07
+"Tier Mobility",Transportation,646,0.07
+Rivian,Transportation,10700,0.06
+Cars24,Transportation,1300,0.06
+Rivian,Transportation,10700,0.06
+Canoo,Transportation,300,0.06
+Motive,Transportation,567,0.06
+"Argo AI",Transportation,3600,0.05
+Bounce,Transportation,214,0.05
+Waze,Transportation,67,0.05
+Grab,Transportation,9900,0.05
+Reef,Transportation,1500,0.05
+99,Transportation,244,0.02
+Lyft,Transportation,4900,0.02
+Rivian,Transportation,3100,0.02
+"Airy Rooms",Travel,0,0.70
+Hipcamp,Travel,41,0.60
+"Remote Year",Travel,17,0.50
+WhyHotel,Travel,33,0.50
+TravelTriangle,Travel,47,0.50
+MaxMilhas,Travel,0,0.42
+PickYourTrail,Travel,3,0.35
+Impala,Travel,32,0.35
+Pollen,Travel,238,0.33
+Flymya,Travel,0,0.33
+Sonder,Travel,359,0.33
+Pollen,Travel,88,0.31
+Domio,Travel,116,0.30
+"Horizn Studios",Travel,30,0.25
+Tripbam,Travel,0,0.25
+Agoda,Travel,0,0.25
+TripActions,Travel,981,0.25
+Booking.com,Travel,0,0.25
+Airbnb,Travel,5400,0.25
+TripAdvisor,Travel,3,0.25
+WanderJaunt,Travel,26,0.23
+Inspirato,Travel,79,0.22
+AvantStay,Travel,686,0.22
+"The Guild",Travel,36,0.22
+Sonder,Travel,839,0.21
+FabHotels,Travel,48,0.20
+Cabin,Travel,3,0.20
+Skyscanner,Travel,197,0.20
+GetYourGuide,Travel,656,0.17
+Vacasa,Travel,834,0.17
+Frontdesk,Travel,3,0.16
+Klook,Travel,521,0.15
+Sonder,Travel,839,0.14
+Inspirato,Travel,179,0.12
+RedDoorz,Travel,134,0.10
+MakeMyTrip,Travel,548,0.10
+MakeMyTrip,Travel,548,0.10
+Traveloka,Travel,0,0.10
+"Kayak / OpenTable",Travel,229,0.08
